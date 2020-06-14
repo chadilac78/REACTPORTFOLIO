@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Resume",
+        "description": "A link to a pdf of my most current resume",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.netclipart.com%2Fisee%2FJRiRo_download-free-png-and-vector-resume-logo%2F&psig=AOvVaw2CSZ511-Ou5jHt9b7idEqa&ust=1592258242464000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjFt7CmguoCFQAAAAAdAAAAABAE",
+        "link": "https://drive.google.com/open?id=1CNYvV43JNX6BZ9tmtLHdPKOcme9ZwNth"
+    },
+    {
+        "id": 2,
+        "name": "GitHub",
+        "description": "A link to my GitHub profile",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2F&psig=AOvVaw1ibrc1jnTebFLki2Qafyis&ust=1592258341698000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCJvNymguoCFQAAAAAdAAAAABAD",
+        "link": "https://github.com/chadilac78"
+    },
+    {
+        "id": 3,
+        "name": "Linkedin",
+        "description": "A link to my Linkedin profile",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrand.linkedin.com%2Fdownloads&psig=AOvVaw1hjh-1BCtnZ-VzJNPn7XdX&ust=1592258443161000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCI3ImnguoCFQAAAAAdAAAAABAT",
+        "link": "www.linkedin.com/in/chadrick-worthan"
+    }
+]

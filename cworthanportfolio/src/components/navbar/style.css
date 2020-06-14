@@ -1,0 +1,16 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+
+}
+.navbar-brand {
+  color: black;
+}
+
+.nav-item {
+color: green;
+}
+
+h1 {
+  color: white;
+  text-decoration: yellow;
+}
